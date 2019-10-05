@@ -1,1 +1,1 @@
-say_hello("Gabriela")
+put say_hello("Gabriela")
